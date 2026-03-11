@@ -41,7 +41,7 @@ product-scraper/
 
 ## ⚙️ Installation
 1️⃣ Clone the repository
-git clone https://github.com/your-username/product-scraper.git
+git clone https://github.com/PremAround-AI/E-Commerce-Product-Scraper.git
 cd product-scraper
 2️⃣ Install dependencies
 pip install -r requirements.txt
